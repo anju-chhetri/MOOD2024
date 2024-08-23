@@ -42,3 +42,6 @@ After generating the dataset, structure it as specified [here](https://github.co
     ```nnUNetv2_predict -d Dataset018_CM -i INPUT_FOLDER -o OUTPUT_FOLDER -f 0 1 2 3 4 -tr nnUNetTrainer -c 3d_fullres -p nnUNetResEncUNetMPlans```
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://pitt.libguides.com/openlicensing/MIT) file for details.
